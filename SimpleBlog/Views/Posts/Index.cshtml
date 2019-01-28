@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Posts";
+}
+
+@section Scripts
+{
+    <script>
+        alert("HEY!");
+    </script>
+}
+
+<h1>Posts Index</h1>
+<p>
+    <a href="@Url.RouteUrl("login")"> Click here</a> to login!
+</p>
+<p>
+    @Html.RouteLink("Click Here", "login") to Login
+</p>
+
+
