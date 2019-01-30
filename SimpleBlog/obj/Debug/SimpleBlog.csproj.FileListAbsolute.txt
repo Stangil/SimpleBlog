@@ -70,3 +70,10 @@ C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\obj\De
 C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csproj.CopyComplete
 C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.dll
 C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.pdb
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\Antlr3.Runtime.dll
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\Newtonsoft.Json.dll
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\System.Web.Optimization.dll
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\WebGrease.dll
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\Newtonsoft.Json.xml
+C:\Users\Stang\Documents\Repositories\Visual_Studio\SimpleBlog\SimpleBlog\bin\System.Web.Optimization.xml
